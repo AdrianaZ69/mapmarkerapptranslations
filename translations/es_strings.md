@@ -901,7 +901,7 @@ Premium access available! You currently have access to premium features.
 ```
 translated (by machine 🤖) as:
 ```
-Acceso premium disponibles! Actualmente tienes acceso a funciones avanzadas.
+Acceso premium disponible! Actualmente tienes acceso a funciones avanzadas.
 ```
 
 
@@ -921,7 +921,7 @@ Cloud sync
 ```
 translated (by machine 🤖) as:
 ```
-Nube de sincronización
+Sincronización con la nube
 ```
 
 
